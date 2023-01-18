@@ -47,6 +47,7 @@ host-suffix, api.tiktokv.com, 海外服务
 host-suffix, app.tubemaxapp.com, 海外服务
 host-suffix, app.measurement.com, 海外服务
 host-suffix, applovin.com, 海外服务
+host-suffix, app-measurement.com, 海外服务
 user-agent, battleroyale*, 海外服务
 host-suffix, jable.tvm, 海外服务
 host-suffix, qxzy.top, 海外服务
