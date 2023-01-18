@@ -9,7 +9,6 @@ host-suffix, movie.xeton.dev, 海外服务
 host-suffix, servers.xeton.dev, 海外服务
 ip-cidr, 38.94.111.242/32, 海外服务
 ip-cidr, 38.94.111.242/22, 海外服务
-user-agent, %E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*, 海外服务
 user-agent, AwemeI18n*, 海外服务
 user-agent, Coinbase*, 海外服务
 user-agent, Instagram*, 海外服务
