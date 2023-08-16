@@ -147,6 +147,9 @@ ip-cidr, 199.96.56.0/21, 海外服务
 ip-cidr, 202.160.128.0/22, 海外服务
 ip-cidr, 209.237.192.0/19, 海外服务
 ip-cidr, 69.195.160.0/19, 海外服务
+host-keyword, openai, 海外服务
+host-suffix , identrust.com, 海外服务
+host-suffix , auth0.com, 海外服务
 host-suffix, 2o7.net, 海外服务
 host-suffix, 4everproxy.com, 海外服务
 host-suffix, 4shared.com, 海外服务
