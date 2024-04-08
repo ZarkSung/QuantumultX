@@ -1,3 +1,17 @@
+DOMAIN,cdn.auth0.com,海外服务
+DOMAIN,o33249.ingest.sentry.io,海外服务
+DOMAIN-SUFFIX,ai.com,海外服务
+DOMAIN-SUFFIX,challenges.cloudflare.com,海外服务
+DOMAIN-SUFFIX,identrust.com,海外服务
+DOMAIN-SUFFIX,stripe.com,海外服务
+DOMAIN-KEYWORD,openai,海外服务
+DOMAIN-KEYWORD,claude,海外服务
+DOMAIN-SUFFIX,google.com,海外服务
+DOMAIN-SUFFIX,apis.google.com,海外服务
+DOMAIN-SUFFIX,bard.google.com,海外服务
+DOMAIN-SUFFIX,in.appcenter.ms,海外服务
+DOMAIN-SUFFIX,ogs.google.com,海外服务
+DOMAIN-SUFFIX,www.google.com,海外服务
 HOST,p16-tiktokcdn-com.akamaized.net,海外服务
 HOST-SUFFIX,byteoversea.com,海外服务
 HOST-SUFFIX,ibytedtos.com,海外服务
