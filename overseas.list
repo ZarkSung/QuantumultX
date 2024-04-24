@@ -12,24 +12,6 @@ DOMAIN-SUFFIX,bard.google.com, 海外服务
 DOMAIN-SUFFIX,in.appcenter.ms, 海外服务
 DOMAIN-SUFFIX,ogs.google.com, 海外服务
 DOMAIN-SUFFIX,www.google.com, 海外服务
-HOST,p16-tiktokcdn-com.akamaized.net, 海外服务
-HOST-SUFFIX,byteoversea.com, 海外服务
-HOST-SUFFIX,ibytedtos.com, 海外服务
-HOST-SUFFIX,ibyteimg.com, 海外服务
-HOST-SUFFIX,ipstatp.com, 海外服务
-HOST-SUFFIX,muscdn.com, 海外服务
-HOST-SUFFIX,musical.ly, 海外服务
-HOST-SUFFIX,sgpstatp.com, 海外服务
-HOST-SUFFIX,snssdk.com, 海外服务
-HOST-SUFFIX,tik-tokapi.com, 海外服务
-HOST-SUFFIX,tiktok.com, 海外服务
-HOST-SUFFIX,tiktokcdn.com, 海外服务
-HOST-SUFFIX,tiktokv.com, 海外服务
-HOST-KEYWORD,-tiktokcdn-com, 海外服务
-HOST-KEYWORD,musical.ly, 海外服务
-HOST-KEYWORD,tiktok, 海外服务
-HOST-KEYWORD,tiktokv, 海外服务
-USER-AGENT,TikTok*, 海外服务
 host-suffix, emby-cf.plusmedia.site, 海外服务
 host-suffix, tv.emby.media, 海外服务
 host-suffix, emby.media, 海外服务
