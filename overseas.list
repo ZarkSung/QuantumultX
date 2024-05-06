@@ -16,12 +16,6 @@ HOST-KEYWORD,musical.ly, 海外服务
 HOST-KEYWORD,tiktok, 海外服务
 HOST-KEYWORD,tiktokv, 海外服务
 USER-AGENT,TikTok*, 海外服务
-DOMAIN-SUFFIX,google.com, 海外服务
-DOMAIN-SUFFIX,apis.google.com, 海外服务
-DOMAIN-SUFFIX,bard.google.com, 海外服务
-DOMAIN-SUFFIX,in.appcenter.ms, 海外服务
-DOMAIN-SUFFIX,ogs.google.com, 海外服务
-DOMAIN-SUFFIX,www.google.com, 海外服务
 host-suffix, emby-cf.plusmedia.site, 海外服务
 host-suffix, tv.emby.media, 海外服务
 host-suffix, emby.media, 海外服务
