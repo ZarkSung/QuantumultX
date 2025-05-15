@@ -31,7 +31,6 @@ USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
-
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
@@ -101,13 +100,6 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-# > bilibili Intl
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN,apm-misaka.biliapi.net
-DOMAIN,p.bstarstatic.com
-DOMAIN,p-bstarstatic.akamaized.net
-DOMAIN,upos-bstar-mirrorakam.akamaized.net
-DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 # > DAZN
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,dazn.com
@@ -285,18 +277,3 @@ USER-AGENT,WeTV*
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 IP-CIDR,150.109.28.51/32,no-resolve
-# > YouTube
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,withyoutube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
