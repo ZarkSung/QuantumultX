@@ -81,12 +81,6 @@ DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 # DOMAIN,www.amazon.com
 DOMAIN-KEYWORD,avoddashs
-# > Apple Music TV
-DOMAIN,tv.applemusic.com
-# > Apple TV
-DOMAIN,linear.tv.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN,uts-api.itunes.apple.com
 # > Bahamut
 USER-AGENT,Anime*
 DOMAIN-SUFFIX,bahamut.com.tw
